@@ -95,6 +95,7 @@ Email: security@valdis.app
 ## Thanks ❤️
 
 - **[Ollama](https://github.com/ollama/ollama)** — local LLM runtime
+- **[LM Studio](https://lmstudio.ai/)** — local AI, on Your Computer
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** (by **Argmax**) — on-device speech-to-text
 - **[Vapor](https://github.com/vapor/vapor)** — WebSocket server backend on macOS
 - **[Ready Player Me](https://readyplayer.me/)** — avatars
