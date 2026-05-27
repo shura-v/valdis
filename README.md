@@ -7,8 +7,8 @@ Valdis is **closed-source** — no code lives here.
 
 ## Quick links
 
-- **Report a bug / request a feature:** https://github.com/valdis-app/valdis/issues/new/choose
-- **Browse existing issues:** https://github.com/valdis-app/valdis/issues
+- **Report a bug / request a feature:** https://github.com/shura-v/valdis/issues/new/choose
+- **Browse existing issues:** https://github.com/shura-v/valdis/issues
 - **Website / Download:** https://valdis.app
 - **Support:** https://valdis.app/faq
 - **Privacy:** https://valdis.app/privacy
@@ -16,7 +16,7 @@ Valdis is **closed-source** — no code lives here.
 ## How to open an issue
 
 1) Sign in to GitHub.
-2) Open the new issue chooser: https://github.com/valdis-app/valdis/issues/new/choose
+2) Open the new issue chooser: https://github.com/shura-v/valdis/issues/new/choose
 3) Pick **Bug report** or **Feature request**, fill out the template, and submit.
 
 ## Before you file an issue
