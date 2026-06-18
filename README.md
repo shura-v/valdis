@@ -116,5 +116,4 @@ Valdis builds on great work from the local AI and Apple developer ecosystem:
 - **[LM Studio](https://lmstudio.ai/)** — local AI on your computer
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** by **Argmax** — on-device speech-to-text
 - **[Vapor](https://github.com/vapor/vapor)** — WebSocket server backend on macOS
-- **[Ready Player Me](https://readyplayer.me/)** — avatars
 - **[textual](https://github.com/gonzalezreal/textual)** — Markdown rendering
